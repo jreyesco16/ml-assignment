@@ -20,7 +20,5 @@ def main():
                 fileWrite.write(','+token)
     
 
-
-
 if __name__=="__main__":
     main()
